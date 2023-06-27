@@ -8,6 +8,6 @@
 ```cd ~```
 ```touch .vimrc```
 ### edit the .vimrc file and set the colorscheme to Tomorrow Night Blue and set syntax highlighting to ON
-```nano .vimrc```
+```vim .vimrc```
 ```colorscheme Tomorrow-Night-Blue```
 ```syntax on```
